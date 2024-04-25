@@ -1,4 +1,4 @@
-name: VyOS LTS Build 
+name: VyOS LTS Build
 
 on:
   push:
